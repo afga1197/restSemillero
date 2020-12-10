@@ -45,6 +45,11 @@
 			<artifactId>jersey-media-json-jackson</artifactId>
 			<version>2.25</version>
 		</dependency>
+		<dependency>
+			<groupId>com.clearminds.AFGA</groupId>
+			<artifactId>middleware</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 
 	</dependencies>
 	<build>
